@@ -1,16 +1,11 @@
 # ncross
 
-A new Flutter project.
+A Flutter project to find normative crosssections. Made for my Waternet collegues.
 
-## Getting Started
+See [this youtube video](https://www.youtube.com/watch?v=MNSYsGszBDk) for the 'manual'.
 
-This project is a starting point for a Flutter application.
+Ideas, comments? breinbaasnl@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
+Cheers,
+Rob
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
